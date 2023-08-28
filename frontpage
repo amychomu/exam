@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Examination System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>Online Exam System</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="login">
+                <a href="login.html">Login</a>
+            </div>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Welcome to the Online Exam System</h2>
+            <p>Prepare for your exams with ease. Join thousands of students who trust us for their online assessments.</p>
+            <a href="signup.html" class="cta-button">Sign Up Now</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h3>Easy-to-Use</h3>
+            <p>Our platform is designed with a user-friendly interface for both students and administrators.</p>
+        </div>
+        <div class="feature">
+            <h3>Secure</h3>
+            <p>Your data and exams are protected with state-of-the-art security measures.</p>
+        </div>
+        <div class="feature">
+            <h3>Comprehensive Reporting</h3>
+            <p>Get detailed reports and analytics to track student performance.</p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need assistance, please don't hesitate to reach out.</p>
+        <a href="contact.html" class="cta-button">Contact Us</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Online Exam System. All rights reserved.</p>
+    </footer>
+</body>
+</html>
